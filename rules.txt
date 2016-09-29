@@ -6,7 +6,7 @@ These are the rules of the games:-
 
 #3 - The players have to follow the suit on top and if they dont have that suit's card with them, they can use any other card.
 
-#4 - The player who won the previous round gets to decide the trump on watching his first five cards.
+#4 - The team who wins a particular set of game gets the chance to select the trump for the next set of game on the basis of their first five cards.(The winning team will decide between themselves as to who will select the trump.)
 
 #5 - A total of 5+4+4(13) cards will be distributed to each player.
 
